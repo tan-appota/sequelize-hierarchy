@@ -1,6 +1,6 @@
 {
-  "name": "sequelize-hierarchy",
-  "version": "3.0.0",
+  "name": "sequelize-hierarchy-fork",
+  "version": "1.0.0",
   "description": "Nested hierarchies for Sequelize (Fork version)",
   "main": "index.js",
   "author": {
