@@ -1,17 +1,17 @@
 {
-  "name": "sequelize-hierarchy-fork",
+  "name": "sequelize-hierarchy-plugin",
   "version": "1.0.0",
   "description": "Nested hierarchies for Sequelize (Fork version)",
   "main": "index.js",
   "author": {
-    "name": "dongnt"
+    "name": "acheckin"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thanhdongnguyen/sequelize-hierarchy.git"
+    "url": "https://github.com/tan-appota/sequelize-hierarchy"
   },
   "bugs": {
-    "url": "https://github.com/thanhdongnguyen/sequelize-hierarchy/issues"
+    "url": "https://github.com/tan-appota/sequelize-hierarchy"
   },
   "dependencies": {
     "is-generator": "^1.0.3",
